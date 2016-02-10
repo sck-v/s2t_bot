@@ -9,9 +9,9 @@
 3. Put your api tokens in `config/prod.secret.exs`
 4. [Deploy](http://www.phoenixframework.org/docs/deployment) application. You will need a server capable to run erlang applications and `ffmpeg` installed.
 You can use heroku with buildpacks:
-	*https://github.com/HashNuke/heroku-buildpack-elixir.git
-	*https://github.com/gjaldon/heroku-buildpack-phoenix-static.git
-	*https://github.com/HYPERHYPER/heroku-buildpack-ffmpeg.git
+	* https://github.com/HashNuke/heroku-buildpack-elixir.git
+	* https://github.com/gjaldon/heroku-buildpack-phoenix-static.git
+	* https://github.com/HYPERHYPER/heroku-buildpack-ffmpeg.git
 5. Go to `<your application url>/setup`	to register your bot handler
 6. Add bot in your contact list
 7. Try to say him something or forward some message with voice.
